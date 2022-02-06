@@ -55,7 +55,8 @@ header img {
  }
 
 .gallery img:hover {
-  filter: grayscale(100%);
+  color: grey;
+  opacity: 0.6;
 }
  
  figure {
