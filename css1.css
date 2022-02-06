@@ -53,6 +53,10 @@ header img {
    text-align: center;
    color: #7A7A7A;
  }
+
+.gallery img:hover {
+  filter: grayscale(100%);
+}
  
  figure {
   display: inline;
